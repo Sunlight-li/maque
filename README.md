@@ -4,7 +4,7 @@
 QQ群聊：194442843，点击链接加入群聊【麻雀-安全监控系统】：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=dAA7qG3Ofckg15QZ1Ww9dLCQxVGbiVB6&authKey=hrByJ5ewpU5%2F7dL%2BeOz9DWin0cdWj83CG2QiHm0%2FbRJhyaXUtQPU3gV68eHbOjq0&noverify=0&group_code=194442843    
 
 
-gitee跳转地址：https://gitee.com/li_chao18835251905/sparrow
+gitee跳转地址：https://gitee.com/red_Q/sparrow
 
 
 ## 程序配置文件
