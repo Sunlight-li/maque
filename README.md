@@ -1,7 +1,7 @@
 # 麻雀
 # 一款安全防护工具，适用于linux系统，有日志分析、业务健康检查、文件防篡改三大功能
-### 程序在不断优化中，有好的建议请发送邮件或者加入qq和微信沟通群
-QQ群聊：194442843，点击链接加入群聊【麻雀-安全监控系统】：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=dAA7qG3Ofckg15QZ1Ww9dLCQxVGbiVB6&authKey=hrByJ5ewpU5%2F7dL%2BeOz9DWin0cdWj83CG2QiHm0%2FbRJhyaXUtQPU3gV68eHbOjq0&noverify=0&group_code=194442843
+### 程序在不断优化中，有好的建议请发送邮件或者加入qq和微信沟通群  
+QQ群聊：194442843，点击链接加入群聊【麻雀-安全监控系统】：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=dAA7qG3Ofckg15QZ1Ww9dLCQxVGbiVB6&authKey=hrByJ5ewpU5%2F7dL%2BeOz9DWin0cdWj83CG2QiHm0%2FbRJhyaXUtQPU3gV68eHbOjq0&noverify=0&group_code=194442843    
 微信群聊：![Alt text](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240613103955.jpg)
 
 
