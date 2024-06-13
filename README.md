@@ -20,7 +20,7 @@ system_num: 2
 # 系统名称标识（必填项）
 system_id: system_1
 # 告警系统URL（仅仅支持钉钉webhook）
-alarm_url: https://oapi.dingtalk.com/robot/send?access_token=881ac46e53716344351a74760981a8861c90291f2763730ab54a9454df60bef3
+alarm_url: https://oapi.dingtalk.com/robot/send?access_token=XXXXX
 
 # 钉钉关键字（不配置不能发送信息）
 keyword: 【告警中心】
@@ -28,7 +28,7 @@ keyword: 【告警中心】
 #系统名称标识
 system_1: 
   # 系统名称
-  system_name: 营业系统
+  system_name: 某某某系统
   # 日志规则
   log:
     # 日志文件路径
@@ -48,7 +48,7 @@ system_1:
       # ssh远程登录用户名
       ssh_user: root
       # ssh远程登录密码
-      ssh_password: Lc753951..
+      ssh_password: 
       # ssh远程需要执行的命令 解释器(例如：/bin/bash或者/usr/bin/python3)
       ssh_cmd: whoami; ls -l; 
       # 本地需要执行的命令  解释器(例如：/bin/bash或者/usr/bin/python3)
